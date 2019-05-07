@@ -1,0 +1,37 @@
+.card.ui{
+    border: none;
+}
+
+.card-header.ui{
+    /* background: rgb(160, 181, 187); */
+    background: rgb(90, 113, 125);
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card-body.ui{  
+    background: #F8F9FA;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+body {
+    background: rgb(1, 52, 107);
+    font-family: sans-serif;
+}
+
+
+#save-routine, #discard, #add-exercise, #add-break  {
+    background: rgb(90, 113, 125);
+    /* background: rgb(160, 181, 187); */
+}
+
+.btn {
+    background: rgb(90, 113, 125);
+}
+
+.user, #log-out {
+    cursor: pointer;
+}
